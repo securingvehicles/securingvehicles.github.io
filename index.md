@@ -2,7 +2,8 @@
 layout: default
 ---
 
-- Table of Contents
+# Table of Contents
+1. TOC
 {:toc}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
