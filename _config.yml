@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Securing Vehicles
 email: benjamin@assured.se
-description: Securing Vehicles is the global name for the project OASIS, Open Automotive Security Initiative Sweden, which focused on educating the automotive industry and security industry in automotive security. Our goal is to implement an open learning-platform to educate and share knowledge about automotive security. Stay tuned for more information. 
+description: Securing vision has a vision of becoming an non-profit organisation working to give you a collective knowledge-base of vehicle security.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://securingvehicles.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  securingvehicles
