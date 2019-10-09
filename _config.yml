@@ -22,7 +22,7 @@ github_username:  securingvehicles
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
