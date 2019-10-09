@@ -2,11 +2,6 @@
 layout: default
 ---
 
-# Table of Contents
-{: .no_toc}
-1. TOC
-{:toc}
-
 # OASIS
 Open Automotive Security Initiative Sweden (OASIS) is a research project in Gothenburg (Sweden) with a vision to make automotive security content easily available. We aim to help you gain new knowledge, collaborate with others in the field and train using our simulated hackable vehicle platform. 
 
